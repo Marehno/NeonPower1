@@ -1,7 +1,6 @@
 const canvas = document.getElementById('canvas1');
-const ctx = canvas.getContext('2d');
-canvas.width = 1278;
-canvas.height = 1024;
+canvas1.width = 1278;
+canvas1.height = 1024;
 
 let aPressed = false;
 let dPressed = false;
